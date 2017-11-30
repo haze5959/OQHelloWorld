@@ -1,0 +1,11 @@
+framework module OQHelloWorld {
+  umbrella header "OQHelloWorld.h"
+
+  export *
+  module * { export * }
+}
+
+module OQHelloWorld.Swift {
+    header "OQHelloWorld-Swift.h"
+    requires objc
+}

@@ -1,0 +1,10 @@
+framework module OQHelloWorld {
+  umbrella header "OQHelloWorld.h"
+
+  export *
+  module * { export * }
+}
+
+module OQHelloWorld.__Swift {
+    exclude header "OQHelloWorld-Swift.h"
+}

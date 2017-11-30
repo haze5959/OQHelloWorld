@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kwon-ogyu/Desktop/OQHelloWorld/Build/Products/Debug-iphoneos/OQHelloWorld.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "OQHelloWorld-Swift.h",
+          'external-contents': "/Users/kwon-ogyu/Desktop/OQHelloWorld/Build/Products/Debug-iphoneos/OQHelloWorld.framework/Headers/OQHelloWorld-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "OQHelloWorld.h",
+          'external-contents': "/Users/kwon-ogyu/Desktop/OQHelloWorld/OQHelloWorld/OQHelloWorld.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kwon-ogyu/Desktop/OQHelloWorld/Build/Products/Debug-iphoneos/OQHelloWorld.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kwon-ogyu/Desktop/OQHelloWorld/Build/Intermediates.noindex/OQHelloWorld.build/Debug-iphoneos/OQHelloWorld.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
