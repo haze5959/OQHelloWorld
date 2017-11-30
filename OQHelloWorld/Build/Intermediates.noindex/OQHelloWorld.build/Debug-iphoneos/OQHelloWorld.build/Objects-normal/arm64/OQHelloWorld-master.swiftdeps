@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
-options: "c1cf242ea44b7e6c99f2ee67465c2643"
-build_time: [1512006817, 902178000]
-inputs:
-  "/Users/kwon-ogyu/Desktop/OQHelloWorld/OQHelloWorld/Hello.swift": [1512003474, 0]
